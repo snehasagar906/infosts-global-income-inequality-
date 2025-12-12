@@ -1,1 +1,11 @@
-# infosts-global-income-inequality-
+
+
+
+This project is built with:
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
+
